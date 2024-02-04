@@ -1,0 +1,140 @@
+@use '../../shared/styles/mixins/mq.scss' as *;
+@use '../../shared/styles/mixins/fonts.scss' as *;
+@use '../../shared/styles/functions/sizes.scss' as *;
+
+.home {
+  @include pc {
+    padding: 15rem 0;
+  }
+  @include sp {
+    padding: 12rem 0;
+  }
+  .inner {
+    margin: 0 auto;
+    @include pc {
+      width: 70rem;
+    }
+    @include sp {
+      width: 27.5rem;
+    }
+  }
+  &__heading {
+    display: flex;
+    justify-content: center;
+    h1 {
+      display: block;
+      white-space: nowrap;
+      @include pc {
+        font-size: 3.5rem;
+      }
+      @include sp {
+        font-size: 2.8rem;
+      }
+    }
+  }
+  &__body {
+    @include pc {
+      margin-top: 10rem;
+    }
+    @include sp {
+      margin-top: 8rem;
+    }
+    ol {
+      display: flex;
+      flex-direction: column;
+      @include pc {
+        row-gap: 10rem;
+      }
+      @include sp {
+        row-gap: 8rem;
+      }
+      li {
+        &:nth-of-type(2n) {
+          .diary-card {
+            @include pc {
+              flex-direction: row-reverse;
+            }
+            @include sp {
+              margin-left: auto;
+            }
+          }
+        }
+      }
+    }
+    .diary-card {
+      display: flex;
+      @include pc {
+        justify-content: space-between;
+        column-gap: 5rem;
+      }
+      @include sp {
+        flex-direction: column;
+        width: 20rem;
+      }
+      &__movie {
+        display: flex;
+        flex-direction: column;
+        @include pc {
+          width: 30rem;
+        }
+        &__index {
+          margin-left: 0.3rem;
+          p {
+            display: block;
+            @include pc {
+              font-size: pfz(12);
+            }
+            @include sp {
+              font-size: 1.4rem;
+            }
+          }
+        }
+        &__frame {
+          position: relative;
+          width: 100%;
+          aspect-ratio: 1;
+          border: 0.2rem solid var(--frame);
+          @include pc {
+            margin-top: 0.5rem;
+          }
+          @include sp {
+            margin-top: 0.3rem;
+          }
+        }
+      }
+      &__text {
+        display: flex;
+        flex-direction: column;
+        @include pc {
+          flex: 1;
+          justify-content: center;
+          row-gap: 1rem;
+          margin-top: calc(0.5rem + calc(max(10px, 1.2rem) * 1.3));
+          min-height: 30rem;
+        }
+        @include sp {
+          margin-top: 0.3rem;
+        }
+        p {
+          display: block;
+          @include sp {
+            font-size: 1.4rem;
+          }
+          &:not(:last-of-type) {
+            @include pc {
+              font-size: pfz(14);
+            }
+          }
+          &:last-of-type {
+            margin-left: auto;
+            text-align: right;
+            @include pc {
+              margin-top: 0.8rem;
+              font-size: pfz(12);
+            }
+          }
+        }
+      }
+    }
+  }
+}

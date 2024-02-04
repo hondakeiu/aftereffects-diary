@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  {{> meta
+    title="After Effects Diary"
+    description=""
+    ogType="website"
+  }}
+</head>
+
+{{#> layout}}
+
+<div class="home">
+  <div class="inner">
+    <div class="home__heading">
+      <h1>After Effects Diary</h1>
+    </div>
+    <div class="home__body">
+      <ol>
+        {{#each ../data.diary
+          id=this.id
+          text=this.text
+          date=this.date
+        }}
+        <li>
+          <div class="diary-card">
+            <div class="diary-card__movie">
+              <div class="diary-card__movie__index">
+                <p>- {{id}}</p>
+              </div>
+              <div class="diary-card__movie__frame">
+                <video src="/assets/videos/diary_{{id}}.mp4" autoplay loop muted playsinline></video>
+              </div>
+            </div>
+            <div class="diary-card__text">
+              {{#each text}}
+              <p class="pc">{{this}}</p>
+              {{/each}}
+              <p>{{date}}</p>
+            </div>
+          </div>
+        </li>
+        {{/each}}
+      </ol>
+    </div>
+  </div>
+</div>
+
+{{/layout}}
+
+</html>

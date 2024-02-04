@@ -1,0 +1,48 @@
+@use 'sass:math';
+@use './mixins/mq.scss' as *;
+@use './mixins/fonts.scss' as *;
+
+:root {
+  --background: #f7f6f4;
+  --text: #5f5651;
+  --frame: #ffffff;
+}
+
+html {
+  @include pc {
+    font-size: math.div(10, 1280) * 100vw;
+  }
+  @include sp {
+    font-size: math.div(10, 375) * 100vw;
+  }
+}
+
+body {
+  @include josefin;
+  position: relative;
+  display: block;
+  width: 100%;
+  text-size-adjust: 100%;
+  color: var(--text);
+  background: var(--background);
+  font-size: 1rem;
+  line-height: 1.3;
+  letter-spacing: 0;
+}
+
+h1 {
+  @include coquette;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+}
+
+video {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

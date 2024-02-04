@@ -1,0 +1,19 @@
+[
+  {
+    "id": "001",
+    "date": "Feb 3, 2024",
+    "text": [
+      "Hello After Effects!",
+      "After Effects has a dark background color in the UI, so it's hard to see the colors when I open the color palette and choose a fill color. I'll have to decide all the colors I want to use with xd or figma in advance.",
+      "Also, I learned the “u” shortcut key to show only properties with keyframes, “u” for use! Until I discovered this, I could only open or close all the properties of a layer, so I was having trouble seeing all the unimportant properties together when I just wanted to see one keyframe."
+    ]
+  },
+  {
+    "id": "002",
+    "date": "Feb 4, 2024",
+    "text": [
+      "Today I found the speed graph for the keyframe that I couldn't find yesterday! But I can't specify the easing numerically like I do with css or gsap, so I have to adjust everything by dragging operations, which makes it difficult to work out the details. I hope there is another good way hidden somewhere that I just don't know about yet.",
+      "And our engineer's buddy, transform-origin settings seem to be reproduced by specifying anchor points and positions. I didn't understand how this works at first either, and the solid layers kept dancing in weird positions lol..."
+    ]
+  }
+]

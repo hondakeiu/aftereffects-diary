@@ -1,0 +1,5 @@
+@use 'sass:math';
+
+@function pfz($value) {
+  @return max(10px, math.div($value, 1280) * 100vw);
+}
