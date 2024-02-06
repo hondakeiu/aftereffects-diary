@@ -15,7 +15,7 @@
       width: 70rem;
     }
     @include sp {
-      width: 27.5rem;
+      width: 25.5rem;
     }
   }
   &__heading {
@@ -69,6 +69,7 @@
       }
       @include sp {
         flex-direction: column;
+        row-gap: 1.5rem;
         width: 20rem;
       }
       &__movie {
@@ -98,7 +99,7 @@
             margin-top: 0.5rem;
           }
           @include sp {
-            margin-top: 0.3rem;
+            margin-top: 1rem;
           }
         }
       }
@@ -113,12 +114,12 @@
           min-height: 30rem;
         }
         @include sp {
-          margin-top: 0.3rem;
+          row-gap: 0.8rem;
         }
         p {
           display: block;
           @include sp {
-            font-size: 1.4rem;
+            font-size: 1.2rem;
           }
           &:not(:last-of-type) {
             @include pc {
