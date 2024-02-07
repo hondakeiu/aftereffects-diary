@@ -69,7 +69,6 @@
       }
       @include sp {
         flex-direction: column;
-        row-gap: 1.5rem;
         width: 20rem;
       }
       &__movie {
@@ -99,7 +98,7 @@
             margin-top: 0.5rem;
           }
           @include sp {
-            margin-top: 1rem;
+            margin-top: 0.5rem;
           }
         }
       }
@@ -114,6 +113,7 @@
           min-height: 30rem;
         }
         @include sp {
+          margin-top: 1.3rem;
           row-gap: 0.8rem;
         }
         p {
