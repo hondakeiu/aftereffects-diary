@@ -5,14 +5,14 @@
     "text": [
       "Hello After Effects!",
       "After Effects has a dark background color in the UI, so it's hard to see the colors when I open the color palette and choose a fill color. I'll have to decide all the colors I want to use with Xd or Figma in advance.",
-      "Also, I learned the “u” shortcut key to show only properties with keyframes, “u” for use! Until I discovered this, I could only open or close all the properties of a layer, so I was having trouble seeing all the unimportant properties together when I just wanted to see one keyframe."
+      "Also, I learned the “u” shortcut key to show only properties with keyframes, “u” for use! Until I discovered this, I could only open or close all the properties of every layer, so I was having trouble seeing all the unimportant properties together when I just wanted to see one keyframe."
     ]
   },
   {
     "id": "002",
     "date": "Feb 4, 2024",
     "text": [
-      "Today I found the speed graph for the keyframe that I couldn't find yesterday! But I can't specify the easing numerically like I do with css or gsap, so I have to adjust everything by dragging operations, which makes it difficult to work out the details. I hope there is another good way hidden somewhere that I just don't know about yet.",
+      "Today I found the speed graph for the keyframes that I couldn't find yesterday! But I can't specify the easing numerically like I do with CSS or GSAP, so I have to adjust everything by dragging operations, which makes it difficult to work out the details. I hope there is another good way hidden somewhere that I just don't know about yet.",
       "And our engineer's buddy, transform-origin settings seem to be reproduced by specifying anchor points and positions. I didn't understand how this works at first either, and the solid layers kept dancing in weird positions lol..."
     ]
   },
@@ -20,8 +20,8 @@
     "id": "003",
     "date": "Feb 5, 2024",
     "text": [
-      "Wow~~~!!! I was so impressed that I can just select the layers and press “s” to open the scale and “r” to open the rotation property. I wonder why I had to work so hard yesterday and the day before yesterday, opening and closing tabs every time I tried to display the properties I wanted...?",
-      "I also tried to “Parent & Link” the layers to a null object by selecting them, but After Effects doesn't allow me to drag the children into the parent. The correct way is to use “Pick Whip” to link them to the parent. Ok, I learned it."
+      "Wow~~~!!! I was so impressed that I can just select layers and press “s” to open the scale and “r” to open the rotation property. I wonder why I had to work so hard yesterday and the day before yesterday, opening and closing tabs every time I tried to display the properties I wanted...?",
+      "I also tried to “Parent & Link” layers to a null object by selecting them, but After Effects doesn't allow me to drag children into a parent. The correct way is to use “Pick Whip” to link them to the parent. Ok, I learned it."
     ]
   },
   {
@@ -29,7 +29,7 @@
     "date": "Feb 6, 2024",
     "text": [
       "Today, for the first time, I moved two properties together, so the speed graph also has two colors! The first color was red and the second was aqua, what will be the third color?",
-      "The best thing about After Effects is that we can always see as many previews as we want without having to render it. When we make animations in gsap, we don't know what the animation will look like until we save the file and play it in the web browser, and can't pause it where we want. So, we have to reload the browser many times, set timescale to 0.1 instead of frame by frame, and stare at the screen to make sure there are no unnatural moments, but we don't have to do that here!"
+      "The best thing about After Effects is that we can always see as many previews as we want without having to render it. When we make animations in GSAP, we don't know what the animation will look like until we save the file and play it in the web browser, and can't pause it where we want. So, we have to reload the browser many times, set timescale to 0.1 instead of frame by frame, and stare at the screen to make sure there are no unnatural moments, but we don't have to do that here!"
     ]
   },
   {
@@ -38,6 +38,14 @@
     "text": [
       "Hmmm, I only animated the position property today, but the speed graph is white instead of red? I thought yesterday that the color is determined by the number of graph items, but I wonder what's going on.",
       "And for the first time I tried to use an effect! The name of the effect is called “Turbulent Displacement” in the distortion category, a word I've never even heard of... At any rate, this looks like an effect that makes the layers squishy and distorted. I also tried to play with the evolution property, but I couldn't get a good feel for it. OK, that's enough for today."
+    ]
+  },
+  {
+    "id": "006",
+    "date": "Feb 8, 2024",
+    "text": [
+      "Following yesterday, I tried the new effect “Radial Wipe” in the transition category.  I tried to make the color look like a lollipop candy... does it look like that?",
+      "What I think is kind of a trouble with After Effects is that when I want to change a part of the timeline a little, I have to shift all the layers that have keyframes after it by the same amount. I hope there's some kind of convenient shortcut key for this. I haven't studied it at all, so I don't know."
     ]
   }
 ]

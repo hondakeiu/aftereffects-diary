@@ -94,6 +94,7 @@
           width: 100%;
           aspect-ratio: 1;
           border: 0.2rem solid var(--frame);
+          background: var(--frame);
           @include pc {
             margin-top: 0.5rem;
           }
