@@ -47,5 +47,23 @@
       "Following yesterday, I tried the new effect “Radial Wipe” in the transition category.  I tried to make the color look like a lollipop candy... does it look like that?",
       "What I think is kind of a trouble with After Effects is that when I want to change a part of the timeline a little, I have to shift all the layers that have keyframes after it by the same amount. I hope there's some kind of convenient shortcut key for this. I haven't studied it at all, so I don't know."
     ]
+  },
+  {
+    "id": "007",
+    "date": "Feb 9, 2024",
+    "text": [
+      "Wahhhhh... It's similar to the one I worked on yesterday, but today I tried using “Trim Paths” on ellipses with only thick stroke without fill to move the start and end of ellipses. Yet, why doesn't the animation feel good at all?",
+      "Maybe it's just one of those days. I hope tomorrow will be better.",
+      "Anyway, today is the 7th day since I started this diary! I have never kept a diary for a week in my life haha."
+    ]
+  },
+  {
+    "id": "008",
+    "date": "Feb 10, 2024",
+    "text": [
+      "Today is the Lunar New Year, so I also celebrated by shooting off the tiniest firework in this world~.",
+      "First I drew lines with the pen tool, added “Repeater” and duplicated them. Then I rotated them around in a circle to make them look like sparks. But when I placed the three colored sparks, I had to make some tweaks to various properties so they wouldn't clash with each other... that was difficult. I wanted to make it prettier, but why so subtle?",
+      "Are real pyrotechnicians also going through this kind of trouble to make beautiful fireworks?"
+    ]
   }
 ]
