@@ -62,7 +62,15 @@
     "date": "Feb 10, 2024",
     "text": [
       "Today is the Lunar New Year, so I also celebrated by shooting off a tiny firework~.",
-      "I tried to make many sparks by using “Alpha Matte” and compositions, but no matter how much I worked on and even reworked them in the process, they didn't end up becoming a suitable firework for the New Year's celebration at all. Why is it so complicated...? I wonder if real pyrotechnicians also struggle like this for years and years to make wonderful fireworks. Someday, I'll try again."
+      "I tried to make many sparks by using “Alpha Matte” and “Pre compose”, but no matter how much I worked on and even reworked them in the process, they didn't end up becoming a suitable firework for the New Year's celebration at all. Why is it so complicated...? I wonder if real pyrotechnicians also struggle like this for years and years to make wonderful fireworks. Someday, I'll try again."
+    ]
+  },
+  {
+    "id": "009",
+    "date": "Feb 11, 2024",
+    "text": [
+      "Here is my spiral that reminds of something yummy sweets. Such interesting shapes can be drawn just by adding the “Pucker & Bloat” and “Twist” modifiers to a circle!",
+      "But to be honest, I still haven't figured out how to chain the easing together to make it look better when I hit lots of keyframes like in this case. I think After Effects' easy ease is mild and so comfortable, but looking at the animations made by seniors, I wonder if most of them prefer quite intense easing. A too fast movement is not so easy to understand, so basically, I think it would be better to use a slightly stronger than the default easy ease."
     ]
   }
 ]
