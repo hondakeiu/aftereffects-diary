@@ -81,5 +81,14 @@
       "The effect I used was “Wave Warp” from distortion category. This is exactly the right effect to do this!",
       "On its own, the boundaries of the waves were a bit jaggy. Applying “Fast Box Blur” effect in “Blur & Sharp” category to blur them, then further adjusting “Alpha” channel with “Curves” effect in “Color Correction” category, clean them up nicely. However, Unless you're viewing this on a very large screen with super high resolution, it doesn't matter. So I didn't do this work in the end this time."
     ]
+  },
+  {
+    "id": "011",
+    "date": "Feb 13, 2024",
+    "text": [
+      "Again I played with “Trim Paths”, which I was struggling with the other day. It looks like a pretty Naruto!",
+      "There are 4 arcs, not one shape in one shape layer like usual, today I tried for the first time to put 4 ellipses in one shape layer. But because of this, the trimming of the paths is over the entire shape layer, so even if I realized during the animation that the animation was monotonous or not enough, it is impossible to freely control the start and end of each path... I wonder if I tried adding some rotation to the layer?",
+      "Anyway, I'll try again tomorrow to separate the layers by the number of items."
+    ]
   }
 ]
