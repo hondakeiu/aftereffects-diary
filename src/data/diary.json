@@ -4,7 +4,7 @@
     "date": "Feb 3, 2024",
     "text": [
       "Hello After Effects!",
-      "After Effects has a dark background color in the UI, so it's hard to see the colors when I open the color palette and choose a fill color. I'll have to decide all the colors I want to use with Xd or Figma in advance.",
+      "After Effects has a dark background color in the UI, so it's hard to see the colors when I open the color palette and choose a fill color. I'll have to decide all the colors I want to use with XD or Figma in advance.",
       "Also, I learned the “u” shortcut key to show only properties with keyframes, “u” for use! Until I discovered this, I could only open or close all the properties of every layer, so I was having trouble seeing all the unimportant properties together when I just wanted to see one keyframe."
     ]
   },
@@ -89,6 +89,15 @@
       "Again I played with “Trim Paths”, which I was struggling with the other day. It looks like a pretty Naruto!",
       "There are 4 arcs, not one shape in one shape layer like usual, today I tried for the first time to put 4 ellipses in one shape layer. But because of this, the trimming of the paths is over the entire shape layer, so even if I realized during the animation that the animation was monotonous or not enough, it is impossible to freely control the start and end of each path... I wonder if I tried adding some rotation to the layer?",
       "Anyway, I'll try again tomorrow to separate the layers by the number of items."
+    ]
+  },
+  {
+    "id": "012",
+    "date": "Feb 14, 2024",
+    "text": [
+      "It's Valentine's Day~~! All these days I have been deciding to make this heart tunnel today.",
+      "It was the first time I dragged the anchor points of the path to draw a shape other than just rectangles and ellipses. After “Convert to Bezier Path” for the eclipse path, and switching to the pen tool and adjusting the anchor points, I got this heart. It was difficult to control the anchor points by dragging... I had to redo it many times and finally got the hang of it.",
+      "And this is also the first time I created a complete infinite loop animation. Just set the beginning of the work area in the middle of the animation, not at frame 0, I see. That's a smart approach!"
     ]
   }
 ]
