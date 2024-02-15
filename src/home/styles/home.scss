@@ -4,10 +4,10 @@
 
 .home {
   @include pc {
-    padding: 15rem 0 20rem;
+    padding: 15rem 0 17.5rem;
   }
   @include sp {
-    padding: 12rem 0 15rem;
+    padding: 12rem 0 13rem;
   }
   .inner {
     margin: 0 auto;
