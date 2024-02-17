@@ -106,7 +106,16 @@
     "text": [
       "Until yesterday I had been making various transitions, and now that I'm satisfied with the heart tunnel, it's time to try some new challenges!",
       "The morphing is one of my most awaited joys in After Effects, even before I started this diary. I thought that the morphing would be much more magical, but I did some unexpectedly steady work to make this today?? Well, I enjoyed it because it was the first time I played with many polygons.",
-      "Maybe if I prepare more adequate paths to play with, I can enjoy the magic of morphing even more? I'll try again tomorrow."
+      "Maybe if I prepare more adequate paths to play with, I can enjoy the magic of morphing even more?"
+    ]
+  },
+  {
+    "id": "014",
+    "date": "Feb 16, 2024",
+    "text": [
+      "I made a sticker motion today! The effect “CC Page Turn” was in the distortion category. As the name suggests, it is a perfect effect for turning a sticker like this.",
+      "Though when I was playing it back in preview, it was pretty jumpy, so I guess they really do a lot of calculations to make the motion fun. If I were to try to write this in javascript, it would be very hard~.",
+      "I still don't know how to align multiple items in After Effects, so I just put these 4 stickers together by feel... I'll have to look up the right way later."
     ]
   }
 ]
