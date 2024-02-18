@@ -21,7 +21,7 @@
     "date": "Feb 5, 2024",
     "text": [
       "Wow~~~!!! I was so impressed that I can just select layers and press “s” to open the scale and “r” to open the rotation property. I wonder why I had to work so hard yesterday and the day before yesterday, opening and closing tabs every time I tried to display the properties I wanted...?",
-      "I also tried to “Parent & Link” layers to a null object by selecting them, but After Effects doesn't allow me to drag children into a parent. The correct way is to use “Pick Whip” to link them to the parent. Ok, I learned it."
+      "I also tried to the “Parent & Link” layers to a null object by selecting them, but After Effects doesn't allow me to drag children into a parent. The correct way is to use the “Pick Whip” to link them to the parent. Ok, I learned it."
     ]
   },
   {
@@ -37,7 +37,7 @@
     "date": "Feb 7, 2024",
     "text": [
       "Hmmm, I only animated the position property today, but the speed graph is white instead of red? I thought yesterday that the color is determined by the number of graph items, but I wonder what's going on.",
-      "And for the first time I tried to use an effect! The name of the effect is called “Turbulent Displacement” in the distortion category, a word I've never even heard of... At any rate, this looks like an effect that makes the layers squishy and distorted. I also tried to play with the evolution property, but I couldn't get a good feel for it. OK, that's enough for today."
+      "And for the first time I tried to use an effect! The name of the effect is called the “Turbulent Displacement” in the distortion category, a word I've never even heard of... At any rate, this looks like an effect that makes the layers squishy and distorted. I also tried to play with the evolution property, but I couldn't get a good feel for it. OK, that's enough for today."
     ]
   },
   {
@@ -52,7 +52,7 @@
     "id": "007",
     "date": "Feb 9, 2024",
     "text": [
-      "Wahhhhh... It's similar to the one I worked on yesterday, but today I tried using “Trim Paths” on ellipses with only thick stroke without fill to move the start and end of ellipses. Yet, why doesn't the animation feel good?",
+      "Wahhhhh... It's similar to the one I worked on yesterday, but today I tried using the “Trim Paths” on ellipses with only thick stroke without fill to move the start and end of ellipses. Yet, why doesn't the animation feel good?",
       "Maybe it's just one of those days. I hope tomorrow will be better.",
       "Anyway, today is the 7th day since I started this diary! I have never kept a diary for a week in my life haha."
     ]
@@ -62,14 +62,14 @@
     "date": "Feb 10, 2024",
     "text": [
       "Today is the Lunar New Year, so I also celebrated by shooting off a tiny firework~.",
-      "I tried to make many sparks by using “Alpha Matte” and “Pre compose”, but no matter how much I worked on and even reworked them in the process, they didn't end up becoming a suitable firework for the New Year's celebration at all. Why is it so complicated...? I wonder if real pyrotechnicians also struggle like this for years and years to make wonderful fireworks. Someday, I'll try again."
+      "I tried to make many sparks by using the “Alpha Matte” and “Pre compose”, but no matter how much I worked on and even reworked them in the process, they didn't end up becoming a suitable firework for the New Year's celebration at all. Why is it so complicated...? I wonder if real pyrotechnicians also struggle like this for years and years to make wonderful fireworks. Someday, I'll try again."
     ]
   },
   {
     "id": "009",
     "date": "Feb 11, 2024",
     "text": [
-      "Here is my spiral that reminds of something yummy sweets. Such interesting shapes can be drawn just by adding “Pucker & Bloat” and “Twist” modifiers to a circle!",
+      "Here is my spiral that reminds of something yummy sweets. Such interesting shapes can be drawn just by adding the “Pucker & Bloat” and “Twist” modifiers to a circle!",
       "To be honest, I still haven't figured out how to chain easings together to make it look better when I hit lots of keyframes like in this case. I think After Effects' easy ease is mild and so comfortable, but looking at animations made by seniors, I wonder if most of them prefer quite intense easings. Too fast movements are not so easy to understand, so basically, I think it would be better to use slightly stronger easings than the default easy ease."
     ]
   },
@@ -78,15 +78,15 @@
     "date": "Feb 12, 2024",
     "text": [
       "Now I tried to draw a calm wave. Perhaps a little too calm?",
-      "The effect I used was “Wave Warp” from distortion category. This is exactly the right effect to do this!",
-      "On its own, the boundaries of the waves were a bit jaggy. Applying “Fast Box Blur” effect in “Blur & Sharp” category to blur them, then further adjusting “Alpha” channel with “Curves” effect in “Color Correction” category, clean them up nicely. However, Unless you're viewing this on a very large screen with super high resolution, it doesn't matter. So I didn't do this work in the end this time."
+      "The effect I used was “Wave Warp” from the distortion category. This is exactly the right effect to do this!",
+      "On its own, the boundaries of the waves were a bit jaggy. Applying the “Fast Box Blur” effect in  the “Blur & Sharp” category to blur them, then further adjusting the “Alpha” channel with the “Curves” effect in the “Color Correction” category, clean them up nicely. However, Unless you're viewing this on a very large screen with super high resolution, it doesn't matter. So I didn't do this work in the end this time."
     ]
   },
   {
     "id": "011",
     "date": "Feb 13, 2024",
     "text": [
-      "Again I played with “Trim Paths”, which I was struggling with the other day. It looks like a pretty Naruto!",
+      "Again I played with the “Trim Paths”, which I was struggling with the other day. It looks like a pretty Naruto!",
       "There are 4 arcs, not one shape in one shape layer like usual, today I tried for the first time to put 4 ellipses in one shape layer. But because of this, the trimming of the paths is over the entire shape layer, so even if I realized during the animation that the animation was monotonous or not enough, it is impossible to freely control the start and end of each path... I wonder if I tried adding some rotation to the layer?",
       "Anyway, I'll try again tomorrow to separate the layers by the number of items."
     ]
@@ -122,10 +122,19 @@
     "id": "015",
     "date": "Feb 17, 2024",
     "text": [
-      "Now I challenged the gradient! I quite like beautiful gradients.",
+      "Now I challenged the gradient! I quite like some beautiful gradients.",
       "Hmmm, I can't believe how many times I had to re-render the animation because the color wasn't as I expected it to be... Does the After Effects preview screen still look a little strange with the colors? There was no end anymore, so I decided to go with this...",
       "Blurring is a very hard work in Web browser, and it seems to be the same in After Effects. Today I applied so many “Gaussian Blur” effects that the preview was really heavy.",
-      "But what I learned more than anything else today is that even when using “Wiggle” in expression, it is possible to loop it if the formula is well written so that the two wiggles are interpolated linearly."
+      "But what I learned more than anything else today is that even when using the “Wiggle” in expression, it is possible to loop it if the formula is well written so that the two wiggles are interpolated linearly."
+    ]
+  },
+  {
+    "id": "016",
+    "date": "Feb 18, 2024",
+    "text": [
+      "Oh~~, 3D swirl ribbon has been done!",
+      "The ribbon's motion was controlled by setting keyframes for its position. Using the “Keyframe Interpolation”, the path becomes a curve by setting the “Bezier” for both temporal and spatial. I tried my best to arrange the curve to be smooth, but it is difficult to control the handles, and some parts of the path are not smooth enough...",
+      "And the trajectory appeared by adding the “Echo” effect in the time category! As a first glance at the drawn trajectory was enough to guess, this is quite heavy processing. Today the rendering took a very long time."
     ]
   }
 ]
