@@ -136,5 +136,14 @@
       "The ribbon's motion was controlled by setting keyframes for its position. Using the “Keyframe Interpolation”, the path becomes a curve by setting the “Bezier” for both temporal and spatial. I tried my best to arrange the curve to be smooth, but it is difficult to control the handles, and some parts of the path are not smooth enough...",
       "And the trajectory appeared by adding the “Echo” effect in the time category! As a first glance at the drawn trajectory was enough to guess, this is quite heavy processing. Today the rendering took a very long time."
     ]
+  },
+  {
+    "id": "017",
+    "date": "Feb 19, 2024",
+    "text": [
+      "I was not satisfied with the gradation of the day before yesterday, and tried again. This time I have mastered it completely!",
+      "Today, instead of using the wiggle expression, I set the anchor point for all the colored balls that make up the gradient at the center of the screen and keyframed them normally so that they rotate around that point. Then I used the “Inner Glow” in the layer styles, and I tried setting the blend mode to “Linear Light” for a shimmering glow.",
+      "I've already gotten the hang of drawing hearts for the third time, and the tones also turned out cute, so I'm pretty happy with the results. How do you like it?"
+    ]
   }
 ]
