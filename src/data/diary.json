@@ -145,5 +145,22 @@
       "Today, instead of using the wiggle expression, I set the anchor point for all the colored balls that make up the gradient at the center of the screen and keyframed them normally so that they rotate around that point. Then I used the “Inner Glow” in the layer styles, and I tried setting the blend mode to “Linear Light” for a shimmering glow.",
       "I've already gotten the hang of drawing hearts for the third time, and the tones also turned out cute, so I'm pretty happy with the results. How do you like it?"
     ]
+  },
+  {
+    "id": "018",
+    "date": "Feb 20, 2024",
+    "text": [
+      "Hmmm, today has been a day of much thinking. At least a hundred of these bubble dialogues like this must be growing out of my head right now haha. I usually only talk about After Effects, but this is also my diary, so sometimes I wrote about my days.",
+      "Then, regarding After Effects, I tried to import a file from Illustrator for the first time today. At first I just prepared an svg file, but svg files can't be imported. And I thought it was unkind that the layers had to be separated in Illustrator first, just to import some ai file?"
+    ]
+  },
+  {
+    "id": "019",
+    "date": "Feb 21, 2024",
+    "text": [
+      "Today I created the Merging Liquid Blobs! I said before that I was really looking forward to trying the morphing, and this move also was one of the things that I really wanted to enjoy.",
+      "When I was little, I remember playing the LocoRoco game on the PSP, and this feels a bit like the slime-like character called LocoRoco, which brings back memories.",
+      "Just by combining the “Fast Box Blur” effect in the “Blur & Sharpen” category and the “Matte Choker” in the “Matte”, the liquid animation could be created. It was much easier than I expected, yay! Now I'm wondering what style of animation I could make with this next..."
+    ]
   }
 ]
