@@ -168,8 +168,16 @@
     "date": "Feb 22, 2024",
     "text": [
       "I just tried to make a glowing torus. Does it look like right torus, not just a circle?",
-      "I used the “Glow effect” in the “Stylize” category to give it a luminous look, but this effect is too difficult to adjust... What combination of colors and effects would bring about the ideal look was completely unclear to me.",
+      "I used the “Glow” effect in the “Stylize” category to give it a luminous look, but this effect is too difficult to adjust... What combination of colors and effects would bring about the ideal look was completely unclear to me.",
       "However, this torus is just a combination of shadows, highlights, and glows to make it look a little more realistic, and in reality, it is just a solid figure. So one of these days, I'd like to spin around some proper 3D torus as well."
+    ]
+  },
+  {
+    "id": "021",
+    "date": "Feb 23, 2024",
+    "text": [
+      "Here is a rigging of a heart chain in the gentle breeze~. In my accessory collection, I have a cute silver necklace with a chain of hearts like this. I thought about what other shapes would be interesting to chain together, but all I could come up with was a heart, and so today's animation is this one.",
+      "I used the Pick & Whip again after a while to make each heart inherit the rotation keyframe of the null object, which is its parent, one after another. It was easier and more fun than I thought it would be!"
     ]
   }
 ]
