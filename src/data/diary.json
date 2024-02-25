@@ -185,7 +185,7 @@
     "date": "Feb 24, 2024",
     "text": [
       "Again I created a liquid gradient animation. Today I'm trying to move it in a new way again. There are so many different ways to do it.",
-      "So this time, after creating the gradient with “4 Color Gradient”, combining the “Turbulent Displacement” effect in the distortion category and the “Motion Tile” in the stylize on the adjustment layer, I got this motion. This way is easy and nice because the effects do all the work without having to manage the color balls that compose the gradient individually and adjust them with wiggle and transform.",
+      "So this time, after creating the gradient with “4 Color Gradient”, combining the “Turbulent Displacement” effect in the distortion category and the “Motion Tile” in the stylize on the adjustment layer, I got this motion. This way is easy and nice because the effects do all the work without having to manage the color balls that compose the gradient individually and adjust their transform.",
       "However, the preview was very heavy and the exported file size was the largest I have ever seen. I don't think any of the effects I used today were so heavy on their own, why is that?"
     ]
   }
